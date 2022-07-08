@@ -20,6 +20,8 @@
     "@strapi/provider-upload-cloudinary": "^4.2.2",
     "@strapi/strapi": "4.2.2",
     "better-sqlite3": "7.4.6",
+    "pg": "^8.7.3",
+    "pg-connection-string": "^2.5.0",
     "strapi-plugin-generate-data": "^1.0.10",
     "strapi-plugin-graphs-builder": "^1.0.0",
     "strapi-plugin-import-export-entries": "^1.6.3",

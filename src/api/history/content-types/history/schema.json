@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "histories",
+  "info": {
+    "singularName": "history",
+    "pluralName": "histories",
+    "displayName": "history"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "activity": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "fullName": {
+      "type": "string"
+    }
+  }
+}

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "user-profile",
     "pluralName": "user-profiles",
-    "displayName": "userProfile"
+    "displayName": "userProfile",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -24,6 +25,9 @@
       "type": "string"
     },
     "birthDay": {
+      "type": "string"
+    },
+    "mongoID": {
       "type": "string"
     }
   }
